@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 
 # Licensed under GNU GPL 2.0 by Ingo "ninelore" Reitz <ninelore@protonmail.com>
-# 
-# Contributing:	famfo (famfo#0227)
-# Testing:		G4rrus#3755 
-# 
+#
+# Contributing: famfo (famfo#0227)
+# Testing:      G4rrus#3755
+#
 # Version 1v1-2
 
 ###########################################################################
@@ -32,7 +32,7 @@ USE_OWN_PROTONVERSION=false
 PROTON_CUSTOM_VERSION=""
 
 ## Esync/Fsync
-# WARNING: Make sure that both Arma and Teamspeak either use or dont use Esync and/or Fsync!!!
+# WARNING: Make sure that both Arma and Mumble either use or dont use Esync and/or Fsync!!!
 ESYNC=true
 FSYNC=true
 
